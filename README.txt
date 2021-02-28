@@ -42,7 +42,7 @@ Step 3. Paste line below under "LAUNCH OPTIONS":
 
 -----------------------------------------------------------------------------------------------------------
 
-3. Verifying CFGs loaded:
+3. Verifying CFGs loaded
 Step 1. Open CS:GO
 Step 2. Toggle console and verify the following messages:
 
