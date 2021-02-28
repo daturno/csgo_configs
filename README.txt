@@ -74,9 +74,9 @@ Sets eDPI @ 1152
 Binds mouse and keyboard
 Binds microphone to mouse "forward" button
 Binds "player_ping" to mouse "backward" button
-Features "Utilities Bind Aliases"
+Features "Utilities Bind Aliases [UBA]"
 Features "Radio Binds Z, X, C, V."
-Features "Quickswitch (Sniper)"
+Features "Quickswitch (Sniper) [Q-Switch]"
 
 4.4. Notes on "daturno_ch.cfg"
 Features a static red "+" crosshair
