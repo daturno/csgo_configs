@@ -1,7 +1,7 @@
 # csgo_configs
 READ ME by Daturno
-Version 1.0
-Date: Feb 27 2021
+Version 1.1
+Date: Feb 28 2021
 
 Contents
 1. System Requirements
@@ -28,13 +28,12 @@ Contents
 - 240Mbps download connection
 - 90Mbps upload connection
 - 5 button mouse with mousewheel
-- DPI @ 3200 (default)
-- Mechanical keyboard with Outemu BROWN switches
+- DPI @ 3200
 
 -----------------------------------------------------------------------------------------------------------
 
 2. Deployment Instructions
-Step 1. Extract "daturno_autoexec.cfg", "daturno_ch.cfg" and "daturno_config.cfg" to your CS:GO CFG folder
+Step 1. Save "daturno_autoexec.cfg", "daturno_ch.cfg" and "daturno_config.cfg" to your CS:GO CFG folder
 Step 2. Go to Steam >> Library >> CS:GO >> Properties... >> General Tab
 Step 3. Paste line below under "LAUNCH OPTIONS":
 
@@ -74,9 +73,10 @@ Loads "daturno_config.cfg"
 Sets eDPI @ 1152
 Binds mouse and keyboard
 Binds microphone to mouse "forward" button
-Features "player_ping" bind on mouse "backward" button
+Binds "player_ping" to mouse "backward" button
 Features "Utilities Bind Aliases"
 Features "Radio Binds Z, X, C, V."
+Features "Quickswitch (Sniper)"
 
 4.4. Notes on "daturno_ch.cfg"
 Features a static red "+" crosshair
