@@ -1,6 +1,6 @@
 # csgo_configs
 READ ME by Daturno
-Version 1.2
+Version 1.3
 Date: Mar 1 2021
 
 Contents
@@ -21,6 +21,7 @@ Contents
 4.3. Notes on "daturno_config.cfg"
 4.3.1. UBA
 4.3.2. Q-Switch
+4.3.3. Q-Drop
 4.4. Notes on "daturno_ch.cfg"
 5. Video and Audio Settings
 5.1. Motion Blur OFF
@@ -129,12 +130,16 @@ Binds "player_ping" to mouse "backward" button
 Features "Radio Binds Z, X, C, V."
 Features "Utilities Bind Aliases [UBA]"
 Features "Quickswitch [Q-Switch]"
+Features "C4 Quickdrop [Q-Drop]"
 
 4.3.1. UBA
 Utilities are selected by scroll wheel directions. Up selects "damage" utilities (High Explosive, Incendiary and Molotov). Down selects "tactical" utilities (Flashbang, Smoke and Decoy). The aliases change the scroll wheel binds so you may need to activate more than once to select desired utility.
 
 4.3.2. Q-Switch
-Main usage is to unscope sniper. Switches between knife and primary weapon (if no primary then secondary). Applied on "MOUSE3" button (scroll wheel click). Able to "knife-run" by holding scroll wheel click. 
+Main usage is to unscope sniper. Switches between knife and primary weapon (if no primary then secondary). Applied on "MOUSE3" button (scroll wheel click). Able to "knife-run" by holding scroll wheel click.
+
+4.3.3. Q-Drop
+This feature is for when you spawn with the C4 and want to rush to bombsite without compromising the C4. Press "q" to drop C4 and switch to knife. Hold "q" to switch to C4 and release key to drop C4 then switch to knife.
 
 4.4. Notes on "daturno_ch.cfg"
 Features a static red "+" crosshair
