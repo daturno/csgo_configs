@@ -76,7 +76,6 @@ Step 3. Select "Reset" (beside "Undo Changes")
 Step 1. Save your backup "autoexec.cfg" in your CS:GO CFG folder
 Step 2. Go to Steam >> Library >> CS:GO >> Properties... >> General Tab
 Step 3. Paste your original launch options and include "+exec autoexec"
-Step 4. Press <Enter> for changes to take effect
 
 2.2.5. [Optional] Restoring Backup "config.cfg"
 Step 1. Save your backup "config.cfg" in your CS:GO CFG folder
