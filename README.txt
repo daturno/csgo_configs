@@ -76,7 +76,7 @@ Binds microphone to mouse "forward" button
 Binds "player_ping" to mouse "backward" button
 Features "Utilities Bind Aliases [UBA]"
 Features "Radio Binds Z, X, C, V."
-Features "Quickswitch (Sniper) [Q-Switch]"
+Features "Quickswitch [Q-Switch]"
 
 4.4. Notes on "daturno_ch.cfg"
 Features a static red "+" crosshair
